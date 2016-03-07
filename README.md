@@ -1,5 +1,5 @@
 # Simple QUnit Playground
-Easy playground for TDD with QUnit, during the workshops.
+Easy playground for TDD with [QUnit](https://api.qunitjs.com/) and [Sinon.js](http://sinonjs.org/), during the workshops.
 
 # Usage
 * Write your tests under *module.test.js*
